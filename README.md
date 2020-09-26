@@ -7,7 +7,7 @@ API](http://docs.docker.com/registry/spec/api/), for Go applications.
 
 ```go
 import (
-    "github.com/heroku/docker-registry-client/registry"
+    "github.com/kjx98/docker-registry-cli/registry"
     "github.com/docker/distribution/digest"
     "github.com/docker/distribution/manifest"
     "github.com/docker/libtrust"

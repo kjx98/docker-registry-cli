@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kjx98/docker-registry-client/registry"
+	"github.com/kjx98/docker-registry-cli/registry"
 	"os"
 )
 
